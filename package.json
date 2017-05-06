@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start" : "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nathanmiller9/burger.git"
   },
-  "author": "",
+  "author": "Nate Miller",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nathanmiller9/burger/issues"
