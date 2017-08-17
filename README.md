@@ -5,8 +5,8 @@
 
 ## The user has the option to create a burger.  After they have created the burger, they can devour it!
 
-## Requirements
-#### Create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM while following the MVC design pattern.  Use Node and MySQL to query and route data in the app and Handlebars to generate HTML.
+## Application Functionality
+#### A burger logger is created using MySQL, Node, Express, Handlebars and a homemade ORM while following the MVC design pattern.  Node and MySQL are used to query and route the data in the app while Handlebars generates the HTML.
 
 ## Technologies Used
 - NPM Packages
